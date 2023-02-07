@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dougcarrollpinc
-- 👀 I’m a SQL developer for InflowHealth, focused on automation.
+- 👀 I’m a Data Engineer for InflowHealth, focused on automation.
 
 <!---
 dougcarrollpinc/dougcarrollpinc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
